@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════════════════════════════╗
-║             				 Online Retail Customer Segmentation     					  ║
+║             	 Online Retail Customer Segmentation     					   ║
 ╚════════════════════════════════════════════════════════════════════╝
 
 Tagline: From raw transaction logs → to actionable RFM insights.
@@ -80,4 +80,5 @@ CONTACT
 Questions, suggestions or collaborations — 192100099@ecu.edu.eg || andrewwageh333@gmail.com
 
 ════════════════════════════════════════════════════════════════════════
+
 
