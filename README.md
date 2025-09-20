@@ -122,8 +122,9 @@ ____________________________
 <img src="https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Heatmap%20-%20Distribution%20of%20Recency%E2%80%93Frequency%E2%80%93Monetary.png" alt="Heatmap" width="530" height="830">
 </div>
 
+<div align="center">
 ![image alt](https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Bar%20Chart%20-%20Customer%20Classification%20Distribution.png)
-
+</div>
 ____________
 
 ## **Kaggle:** https://archive.ics.uci.edu/dataset/352/online+retail
