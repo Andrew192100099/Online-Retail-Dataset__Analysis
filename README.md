@@ -116,9 +116,9 @@ __________________________
 ____________________________
 ➢ Online Retail Customer Segmentation (RFM Analysis) End-to-end data analysis project: cleaning, RFM metric calculation, scoring, and customer segmentation with visual insights. Built using Python (Pandas, Matplotlib, Seaborn).
 
-![image alt]()
-![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Images/Profit%20by%20Sub-Category_px.png)
-![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Images/Profit%20by%20Sub-Category_px.png)
+![image alt](https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Online%20Retail.jpg)
+![image alt](https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Bar%20Chart%20-%20Customer%20Classification%20Distribution.png)
+![image alt](https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Heatmap%20-%20Distribution%20of%20Recency%E2%80%93Frequency%E2%80%93Monetary.png)
 
 ____________
 
