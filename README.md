@@ -123,7 +123,7 @@ ____________________________
 </div>
 
 <div align="center">
- <img src="https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Bar%20Chart%20-%20Customer%20Classification%20Distribution.png" alt="Bar Chart" width="428" height="858">
+ <img src="https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Bar%20Chart%20-%20Customer%20Classification%20Distribution.png" alt="Bar Chart" width="728" height="858">
 </div>
 ____________
 
