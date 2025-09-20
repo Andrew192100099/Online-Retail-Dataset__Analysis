@@ -118,7 +118,7 @@ ____________________________
 
 
 <div align="center">
-<img src="https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Online%20Retail.jpg" alt="Titanic Analysis" width="420" height="850">
+<img src="https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Online%20Retail.jpg" alt="Titanic Analysis" width="425" height="855">
 <img src="https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Heatmap%20-%20Distribution%20of%20Recency%E2%80%93Frequency%E2%80%93Monetary.png" alt="Heatmap" width="530" height="830">
 </div>
 
