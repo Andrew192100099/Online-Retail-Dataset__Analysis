@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════════════════════════╗
-║             	Online Retail Customer Segmentation     		  	 ║
+║             	Online Retail Customer Segmentation     		  ║
 ╚════════════════════════════════════════════════════════════════╝
 
 Tagline: From raw transaction logs → to actionable RFM insights.
@@ -70,4 +70,5 @@ Institute: Elevoo, Egypt
 Track: Data Analytics — Internship Task 3 (EDA)  
 
 ════════════════════════════════════════════════════════════════════════
+
 
