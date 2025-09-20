@@ -1,6 +1,6 @@
-╔════════════════════════════════════════════════════════════════╗
-║             	Online Retail Customer Segmentation     		 ║
-╚════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║             				 Online Retail Customer Segmentation     					  ║
+╚════════════════════════════════════════════════════════════════════╝
 
 Tagline: From raw transaction logs → to actionable RFM insights.
 
@@ -65,11 +65,19 @@ NOTES
 ────────────────────────────────────────────────────────────────────────
 LICENSE & CREDITS
 ────────────────────────────────────────────────────────────────────────
-Author: Andrew Wageh  
+Author: <Andrew Wageh Fahmy>  
 Institute: Elevoo, Egypt  
 Track: Data Analytics — Internship Task 3 (EDA)  
+Dataset source: Daqing Chen — Online Retail Dataset (UCI)
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+License: MIT 
+
+
+────────────────────────────────────────────────────────────────────────
+CONTACT
+────────────────────────────────────────────────────────────────────────
+Questions, suggestions or collaborations — 192100099@ecu.edu.eg || andrewwageh333@gmail.com
 
 ════════════════════════════════════════════════════════════════════════
-
-
 
