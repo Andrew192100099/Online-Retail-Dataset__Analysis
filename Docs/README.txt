@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════════════════════════════╗
-║             FINAL PROJECT — Online Retail Customer Segmentation     					  ║
+║             				 Online Retail Customer Segmentation     					  ║
 ╚════════════════════════════════════════════════════════════════════╝
 
 Tagline: From raw transaction logs → to actionable RFM insights.
@@ -67,6 +67,6 @@ LICENSE & CREDITS
 ────────────────────────────────────────────────────────────────────────
 Author: Andrew Wageh  
 Institute: Elevoo, Egypt  
-Track: Data Analytics Internship  
+Track: Data Analytics — Internship Task 3 (EDA)  
 
 ════════════════════════════════════════════════════════════════════════
